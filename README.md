@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-portfolio
 =======
 # Getting Started with Create React App
+=======
+# yujisatojr.com
+>>>>>>> a917167 (upgrade yarn dependencies)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
