@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-portfolio
 =======
 # Getting Started with Create React App
@@ -10,6 +11,9 @@
 =======
 # My Portfolio Website
 >>>>>>> fe5735f (Change title tag of the site)
+=======
+# My Portfolio Website
+>>>>>>> ff05f14 (Add readme)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -80,6 +84,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0c80d02 (switch project to react)
 =======
 >>>>>>> fe5735f (Change title tag of the site)
+=======
+>>>>>>> ff05f14 (Add readme)
