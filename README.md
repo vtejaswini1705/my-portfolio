@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-portfolio
 =======
 # Getting Started with Create React App
@@ -14,8 +15,11 @@
 =======
 # My Portfolio Website
 >>>>>>> ff05f14 (Add readme)
+=======
+# YUJISATOJR.COM
+>>>>>>> 1291f2f (Update readme)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This portfolio site was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
