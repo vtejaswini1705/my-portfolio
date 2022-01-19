@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-portfolio
 =======
 # Getting Started with Create React App
@@ -18,6 +19,9 @@
 =======
 # YUJISATOJR.COM
 >>>>>>> 1291f2f (Update readme)
+=======
+# Yuji's Portfolio Website
+>>>>>>> a62616a (Update readme and few contents)
 
 This portfolio site was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
