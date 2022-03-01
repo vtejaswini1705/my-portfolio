@@ -23,13 +23,17 @@
 # Yuji's Portfolio Website
 >>>>>>> a62616a (Update readme and few contents)
 
-This portfolio site was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This portfolio site is created with ReactJS and published at [yujisatojr.com](www.yujisatojr.com).
 
-## Available Scripts
+## Installation
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm install`
+
+Install dependencies.
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -37,14 +41,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `npm run deploy`
 
 Builds the app for production to the `build` folder.\
+<<<<<<< HEAD
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
@@ -98,3 +103,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> fe5735f (Change title tag of the site)
 =======
 >>>>>>> ff05f14 (Add readme)
+=======
+It correctly bundles React in production mode and optimizes the build for the best performance.
+>>>>>>> e609fe3 (Update readme)
