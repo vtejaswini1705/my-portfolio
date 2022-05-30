@@ -135,5 +135,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## Usage
+<<<<<<< HEAD
 Once you complete the installation process indicated above, open the project folder and navigate to `/src/components` directory. Inside of it, you will find all the pages and components used within the template. You can then modify texts, pictures, and other information to your own.
 >>>>>>> 88ac3dd (Update readme)
+=======
+Once you complete the installation process indicated above, open the project folder and navigate to `/src/components` directory. Inside of it you will find all the pages and components used within the template. You can then modify texts, pictures, and other information to your own.
+>>>>>>> 50acee8 (Fix readme)
