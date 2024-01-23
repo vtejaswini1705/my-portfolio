@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-portfolio
 =======
 # Getting Started with Create React App
@@ -30,16 +31,19 @@
 =======
 # My Portfolio 🚀
 >>>>>>> 88ac3dd (Update readme)
+=======
+# Portfolio Template 🚀
+>>>>>>> 051c014 (Update readme)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
-This portfolio template was created by **Yuji Sato** using ReactJS. The example project is published with [GitHub Pages](https://yujisatojr.github.io/react-portfolio-template/).
+This portfolio template was created by Yuji Sato using [React](https://react.dev/). The example project is published with [GitHub Pages](https://yujisatojr.github.io/react-portfolio-template/).
 
 ## Features
 * Open source
 * Multi-page layout
 * Responsive design
-* Simple & modern technologies (React, JavaScript, and CSS)
+* Simple & modern technologies (React, JavaScript, and SCSS)
 
 This template is free to use (open source), and no attribution is required. You can fork this repository to make changes of your own. Please don't forget to leave a ⭐ if you like this portfolio!
 
