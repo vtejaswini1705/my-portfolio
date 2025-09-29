@@ -51,9 +51,16 @@
 
 .about-section .image-wrapper {
     z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     img {
-        width: 150px;
-        border-radius: 50%;
+        width: 150px;         // make bigger like the original
+        height: 150px;        // keep it square
+        border-radius: 50%;   // keeps it circular
+        object-fit: cover;    // makes sure the photo doesn’t stretch
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); // subtle shadow
     }
 }
 
