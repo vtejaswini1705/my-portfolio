@@ -12,7 +12,6 @@
 This is my personal **portfolio website** built with **React + TypeScript**.  
 It showcases my skills and experience as a **Data Analyst**, with projects in data visualization, analytics, and reporting.
 
-👉 Live Demo: [https://vtejaswini1705.github.io/my-portfolio](https://vtejaswini1705.github.io/my-portfolio)
 
 ---
 
