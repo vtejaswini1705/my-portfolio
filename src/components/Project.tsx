@@ -1,5 +1,5 @@
 import React from "react";
-import warehouseImg from '../assets/images/mock01.jpeg';
+import warehouseImg from '../assets/images/mock05.png';
 import dashboardImg from '../assets/images/mock02.png';
 import pipelineImg from '../assets/images/mock03.png';
 import institutionalImg from '../assets/images/mock04.png';
