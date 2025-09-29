@@ -2,6 +2,7 @@ import React from "react";
 import warehouseImg from '../assets/images/mock01.png';
 import dashboardImg from '../assets/images/mock02.png';
 import pipelineImg from '../assets/images/mock03.png';
+import institutionalImg from '../assets/images/mock04.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -44,6 +45,18 @@ function Project() {
                 </a>
                 <p>Built sample ETL pipelines using Python, Pandas, and SQL for transforming raw datasets into clean, 
                    structured formats. Automated processes for improved data quality and faster reporting cycles.</p>
+            </div>
+            {/* Institutional Data Dashboard */}
+            <div className="project">
+                <a href="https://institutional-data-project-ggp4q5nrecxxfpam9vd39j.streamlit.app/" target="_blank" rel="noreferrer">
+                    <img src={institutionalImg} className="zoom" alt="Institutional Data Dashboard" width="100%"/>
+                </a>
+                <a href="https://institutional-data-project-ggp4q5nrecxxfpam9vd39j.streamlit.app/" target="_blank" rel="noreferrer">
+                    <h2>Institutional Data Dashboard</h2>
+                </a>
+                <p>Developed an interactive Streamlit dashboard to analyze mock institutional data. Includes enrollment trends, 
+                   retention metrics, gender distribution, and average age by major. Features filtering and exportable data for 
+                   reproducible analysis.</p>
             </div>
 
         </div>
