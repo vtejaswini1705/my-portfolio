@@ -11,6 +11,20 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
 
+           
+            {/* Institutional Data Dashboard */}
+            <div className="project">
+                <a href="https://institutional-data-project-ggp4q5nrecxxfpam9vd39j.streamlit.app/" target="_blank" rel="noreferrer">
+                    <img src={institutionalImg} className="zoom" alt="Institutional Data Dashboard" width="100%"/>
+                </a>
+                <a href="https://institutional-data-project-ggp4q5nrecxxfpam9vd39j.streamlit.app/" target="_blank" rel="noreferrer">
+                    <h2>Institutional Data Dashboard</h2>
+                </a>
+                <p>Developed an interactive Streamlit dashboard to analyze mock institutional data. Includes enrollment trends, 
+                   retention metrics, gender distribution, and average age by major. Features filtering and exportable data for 
+                   reproducible analysis.</p>
+            </div>
+
             {/* Student Data Warehouse */}
             <div className="project">
                 <a href="https://github.com/vtejaswini1705/student-data-warehouse" target="_blank" rel="noreferrer">
@@ -46,18 +60,7 @@ function Project() {
                 <p>Built sample ETL pipelines using Python, Pandas, and SQL for transforming raw datasets into clean, 
                    structured formats. Automated processes for improved data quality and faster reporting cycles.</p>
             </div>
-            {/* Institutional Data Dashboard */}
-            <div className="project">
-                <a href="https://institutional-data-project-ggp4q5nrecxxfpam9vd39j.streamlit.app/" target="_blank" rel="noreferrer">
-                    <img src={institutionalImg} className="zoom" alt="Institutional Data Dashboard" width="100%"/>
-                </a>
-                <a href="https://institutional-data-project-ggp4q5nrecxxfpam9vd39j.streamlit.app/" target="_blank" rel="noreferrer">
-                    <h2>Institutional Data Dashboard</h2>
-                </a>
-                <p>Developed an interactive Streamlit dashboard to analyze mock institutional data. Includes enrollment trends, 
-                   retention metrics, gender distribution, and average age by major. Features filtering and exportable data for 
-                   reproducible analysis.</p>
-            </div>
+           
 
         </div>
     </div>
