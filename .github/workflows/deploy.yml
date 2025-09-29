@@ -6,9 +6,13 @@ on:
       - main
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -21,6 +25,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18
+          cache: "npm"
 
       - name: Install dependencies
         run: npm install
@@ -34,8 +39,12 @@ jobs:
           path: ./build
 
   deploy:
-    needs: build
     runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages   # ✅ REQUIRED
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
