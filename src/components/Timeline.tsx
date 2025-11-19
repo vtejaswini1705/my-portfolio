@@ -13,7 +13,7 @@ function Timeline() {
         <h1>Career History</h1>
         <VerticalTimeline>
 
-          /* {/* Mphasis */}
+          {/* Mphasis 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
@@ -41,7 +41,7 @@ function Timeline() {
             <p>
               Provided frontline technical support, trained new help desk staff, assisted with campus-wide software deployments, and collaborated with IT teams on monitoring and troubleshooting.
             </p>
-          </VerticalTimelineElement>
+          </VerticalTimelineElement> */}
 
           {/* Accenture */}
           <VerticalTimelineElement
