@@ -27,7 +27,7 @@ function Timeline() {
             <p>
               Optimized ERP reporting processes with SQL automation, built dashboards in SQL/Excel, and conducted data validation and trend analysis to support decision-making.
             </p>
-          </VerticalTimelineElement> */
+          </VerticalTimelineElement> */}
 
           {/* Marist University */}
           <VerticalTimelineElement
@@ -41,7 +41,7 @@ function Timeline() {
             <p>
               Provided frontline technical support, trained new help desk staff, assisted with campus-wide software deployments, and collaborated with IT teams on monitoring and troubleshooting.
             </p>
-          </VerticalTimelineElement> */}
+          </VerticalTimelineElement> 
 
           {/* Accenture */}
           <VerticalTimelineElement
@@ -50,8 +50,8 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
-            <h4 className="vertical-timeline-element-subtitle">Accenture – Hyderabad, India</h4>
+            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">SMG infotech – Hyderabad, India</h4>
             <p>
               Automated reporting processes, built dashboards, validated data for accuracy, and supported ERP system integration projects using advanced SQL.
             </p>
