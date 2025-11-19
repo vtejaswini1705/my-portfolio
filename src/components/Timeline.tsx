@@ -13,7 +13,7 @@ function Timeline() {
         <h1>Career History</h1>
         <VerticalTimeline>
 
-          {/* Mphasis */}
+          /* {/* Mphasis */}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
@@ -27,7 +27,7 @@ function Timeline() {
             <p>
               Optimized ERP reporting processes with SQL automation, built dashboards in SQL/Excel, and conducted data validation and trend analysis to support decision-making.
             </p>
-          </VerticalTimelineElement>
+          </VerticalTimelineElement> */
 
           {/* Marist University */}
           <VerticalTimelineElement
